@@ -1,0 +1,25 @@
+📁 SUBIR TODO EN RAÍZ (máximo 30-40 archivos)
+├── 📄 README.md
+├── 📄 .env.example
+├── 📄 package.json
+├── 📄 package-lock.json
+├── 📁 public/
+│   ├── 📄 index.html
+│   ├── 📄 favicon.ico
+│   └── 📄 manifest.json
+├── 📁 src/
+│   ├── 📁 components/
+│   ├── 📁 context/
+│   ├── 📁 pages/
+│   ├── 📁 services/
+│   ├── 📄 App.js
+│   ├── 📄 App.css
+│   └── 📄 index.js
+├── 📁 database/
+│   ├── 📄 migrations.sql
+│   ├── 📄 seed_data.sql
+│   └── 📄 rls_policies.sql
+└── 📁 docs/
+    ├── 📄 ERD.md
+    ├── 📄 SETUP.md
+    └── 📄 DEMO_VIDEO.md //link:https://youtu.be/XFVZZdiel_E
